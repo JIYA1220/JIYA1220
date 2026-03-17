@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Jiya+%F0%9F%91%8B;ML+%26+AI+Developer+%7C+Data+Analyst;Agentic+AI+%7C+CV+%7C+NLP"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=Hello!+I%27m+Jiya+%F0%9F%91%8B;ML+%26+AI+Developer+%7C+Data+Analyst;Agentic+AI+%7C+Computer+Vision+%7C+NLP"
       alt="Typing SVG"
     />
   </a>
@@ -24,7 +24,7 @@
 Hi, I’m **Jiya Sharma** — an **ML & AI Developer** and **Data Analyst** who enjoys turning raw data into meaningful insights and building practical AI systems.
 
 I work end-to-end across the full workflow: **data cleaning → EDA → feature engineering → modeling → evaluation → deployment** (apps/APIs).  
-Recently, I’ve been focusing on **Agentic AI** using **LangGraph + LangChain** (stateful multi-step orchestration, async flows, and parallel execution), combining LLMs with optional **web-grounded retrieval** and clean, reproducible engineering practices.
+I’m also exploring **Agentic AI** using **LangGraph and LangChain**, building multi-step AI workflows and applications with clean, reproducible engineering practices.
 
 - 🎯 Focus: **Machine Learning • Deep Learning • Data Analytics • Agentic AI**
 - 🧠 Interests: **Computer Vision • NLP • Explainable AI • Search/RAG**
@@ -76,42 +76,67 @@ Recently, I’ve been focusing on **Agentic AI** using **LangGraph + LangChain**
 
 ---
 
-<h2 align="center">Language and Tools:</h2>
+<h2 align="center">Language and Tools</h2>
 
-<!--
-Repaired icons: moved to skillicons.dev (very reliable rendering on GitHub)
-Includes Agentic AI stack from Ai-Blog-Writter: LangGraph, LangChain, FastAPI, Streamlit, pytest, etc.
--->
+<h3 align="center">Data Analysis and Machine Learning</h3>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,r,mysql,sqlite,matlab,vscode,pycharm,jupyter,git,github,linux,fastapi,streamlit,pytest"
-    alt="Languages and Tools"
-  />
+  <code><img width="48" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
+  <code><img width="48" title="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /></code>
+  <code><img width="48" title="MATLAB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /></code>
+  <code><img width="48" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+  <code><img width="48" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" /></code>
+  <code><img width="48" title="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /></code>
+  <code><img width="48" title="PyCharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /></code>
+  <code><img width="48" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+  <code><img width="48" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+  <code><img width="48" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+  <code><img width="48" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+</p>
+
+<h3 align="center">Deep Learning, Computer Vision, and NLP</h3>
+
+<p align="center">
+  <code><img width="48" title="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" /></code>
+  <code><img width="48" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></code>
+  <code><img width="48" title="OpenCV" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" /></code>
+</p>
+
+<h3 align="center">Agentic AI and LLM Systems</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-Agentic%20Orchestration-7C3AED?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LangChain-LLM%20Framework-0EA5E9?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangSmith-Observability-111827?style=flat-square" alt="LangSmith" />
+  <img src="https://img.shields.io/badge/Tavily-Web%20Search-1F2937?style=flat-square" alt="Tavily" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLMs-374151?style=flat-square" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Gemini-Google%20GenAI-2563EB?style=flat-square" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenRouter-Cloud%20LLMs-F59E0B?style=flat-square" alt="OpenRouter" />
+</p>
+
+<h3 align="center">Apps, APIs, and Engineering</h3>
+
+<p align="center">
+  <code><img width="48" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /></code>
+  <code><img width="48" title="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" /></code>
+  <code><img width="48" title="pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" /></code>
 </p>
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"
-    alt="ML/DL Tools"
-  />
+  <img src="https://img.shields.io/badge/Pydantic-Validation-16A34A?style=flat-square" alt="Pydantic" />
+  <img src="https://img.shields.io/badge/python--dotenv-.env-000000?style=flat-square" alt="dotenv" />
+  <img src="https://img.shields.io/badge/Uvicorn-ASGI-0EA5E9?style=flat-square" alt="Uvicorn" />
+  <img src="https://img.shields.io/badge/httpx-HTTP%20Client-334155?style=flat-square" alt="httpx" />
+  <img src="https://img.shields.io/badge/Rich-CLI%20UI-22C55E?style=flat-square" alt="Rich" />
 </p>
 
-<!-- Agentic/LLM stack (no official skillicons for LangGraph/LangChain/Tavily/etc.) -->
-<div align="center">
+<h3 align="center">BI and Dashboards</h3>
 
-  <code><img width="50" title="LangChain" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg" /></code>
-  <code><img width="50" title="LangGraph" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langgraph.svg" /></code>
-  <code><img width="50" title="Pydantic" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pydantic.svg" /></code>
-  <code><img width="50" title="dotenv" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dotenv.svg" /></code>
-  <code><img width="50" title="Uvicorn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/uvicorn.svg" /></code>
-  <code><img width="50" title="httpx" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/httpx.svg" /></code>
-  <code><img width="50" title="Rich" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/rich.svg" /></code>
-
-  <code><img width="50" title="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" /></code>
-  <code><img width="50" title="Tableau" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" /></code>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-Visualization-4E79A7?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-Analysis-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
 ---
 
