@@ -48,21 +48,21 @@ I’m also exploring **Agentic AI** using **LangGraph and LangChain**, building 
 
 # 🔷 GitHub Stats
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=JIYA1220&show_icons=true&theme=radical&hide_border=true"
     alt="Jiya github stats"
   />
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIYA1220&layout=compact&theme=radical&hide_border=true"
     alt="Top languages"
   />
 </p>
 
-<p align="right">
+<p align="left">
   <img
     src="https://streak-stats.demolab.com?user=JIYA1220&theme=radical&hide_border=true"
     alt="GitHub Streak"
