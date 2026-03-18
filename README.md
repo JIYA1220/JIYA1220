@@ -62,7 +62,7 @@ I’m also exploring **Agentic AI** using **LangGraph and LangChain**, building 
   />
 </p>
 
-<p align="center">
+<p align="right">
   <img
     src="https://streak-stats.demolab.com?user=JIYA1220&theme=radical&hide_border=true"
     alt="GitHub Streak"
