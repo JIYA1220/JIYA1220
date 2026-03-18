@@ -7,17 +7,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    align="center"
-    alt="Coding"
-    width="100%"
-    style="border-radius: 20px;"
-    src="https://i.redd.it/8jcic9myngmb1.gif"
-  />
-</p>
+<div align="center">
+    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+</div>
 
-<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="120" />
+---
 
 ## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="45"> About Me
 
@@ -52,7 +46,7 @@ I’m also exploring **Agentic AI** using **LangGraph and LangChain**, building 
 ---
 
 # 🔷 GitHub Stats
-
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=JIYA1220&show_icons=true&theme=radical&hide_border=true"
